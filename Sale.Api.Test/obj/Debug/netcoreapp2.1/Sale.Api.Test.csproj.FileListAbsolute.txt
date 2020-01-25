@@ -1,0 +1,17 @@
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\bin\Debug\netcoreapp2.1\Sale.Api.Test.deps.json
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\bin\Debug\netcoreapp2.1\Sale.Api.Test.runtimeconfig.json
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\bin\Debug\netcoreapp2.1\Sale.Api.Test.runtimeconfig.dev.json
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\bin\Debug\netcoreapp2.1\Sale.Api.Test.dll
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\bin\Debug\netcoreapp2.1\Sale.Api.Test.pdb
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\bin\Debug\netcoreapp2.1\Sale.Api.dll
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\bin\Debug\netcoreapp2.1\Sale.Api.pdb
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\obj\Debug\netcoreapp2.1\Sale.Api.Test.csprojAssemblyReference.cache
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\obj\Debug\netcoreapp2.1\Sale.Api.Test.csproj.CoreCompileInputs.cache
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\obj\Debug\netcoreapp2.1\Sale.Api.Test.AssemblyInfoInputs.cache
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\obj\Debug\netcoreapp2.1\Sale.Api.Test.AssemblyInfo.cs
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\obj\Debug\netcoreapp2.1\Sale.Api.Test.csproj.CopyComplete
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\obj\Debug\netcoreapp2.1\Sale.Api.Test.dll
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.Test\obj\Debug\netcoreapp2.1\Sale.Api.Test.pdb

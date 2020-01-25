@@ -1,0 +1,17 @@
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\bin\Debug\netcoreapp2.1\Sale.Api.IntegrationTest.deps.json
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\bin\Debug\netcoreapp2.1\Sale.Api.IntegrationTest.runtimeconfig.json
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\bin\Debug\netcoreapp2.1\Sale.Api.IntegrationTest.runtimeconfig.dev.json
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\bin\Debug\netcoreapp2.1\Sale.Api.IntegrationTest.dll
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\obj\Debug\netcoreapp2.1\Sale.Api.IntegrationTest.csprojAssemblyReference.cache
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\obj\Debug\netcoreapp2.1\Sale.Api.IntegrationTest.csproj.CoreCompileInputs.cache
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\obj\Debug\netcoreapp2.1\Sale.Api.IntegrationTest.AssemblyInfoInputs.cache
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\obj\Debug\netcoreapp2.1\Sale.Api.IntegrationTest.AssemblyInfo.cs
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\obj\Debug\netcoreapp2.1\Sale.Api.IntegrationTest.csproj.CopyComplete
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\bin\Debug\netcoreapp2.1\Sale.Api.dll
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\bin\Debug\netcoreapp2.1\Sale.Api.pdb
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\bin\Debug\netcoreapp2.1\Sale.Api.IntegrationTest.pdb
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\obj\Debug\netcoreapp2.1\Sale.Api.IntegrationTest.dll
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api.IntegrationTest\obj\Debug\netcoreapp2.1\Sale.Api.IntegrationTest.pdb

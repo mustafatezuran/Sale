@@ -1,0 +1,14 @@
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api\bin\Debug\netcoreapp2.1\Sale.Api.deps.json
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api\bin\Debug\netcoreapp2.1\Sale.Api.runtimeconfig.json
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api\bin\Debug\netcoreapp2.1\Sale.Api.runtimeconfig.dev.json
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api\bin\Debug\netcoreapp2.1\Sale.Api.dll
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api\bin\Debug\netcoreapp2.1\Sale.Api.pdb
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api\obj\Debug\netcoreapp2.1\Sale.Api.csprojAssemblyReference.cache
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api\obj\Debug\netcoreapp2.1\Sale.Api.csproj.CoreCompileInputs.cache
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api\obj\Debug\netcoreapp2.1\Sale.Api.RazorAssemblyInfo.cache
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api\obj\Debug\netcoreapp2.1\Sale.Api.RazorAssemblyInfo.cs
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api\obj\Debug\netcoreapp2.1\Sale.Api.AssemblyInfoInputs.cache
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api\obj\Debug\netcoreapp2.1\Sale.Api.AssemblyInfo.cs
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api\obj\Debug\netcoreapp2.1\Sale.Api.RazorTargetAssemblyInfo.cache
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api\obj\Debug\netcoreapp2.1\Sale.Api.dll
+C:\Users\is96620\Desktop\Bundle_Repo\Sale\Sale.Api\obj\Debug\netcoreapp2.1\Sale.Api.pdb
